@@ -1,0 +1,86 @@
+<!-- hobbies.html -->
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hobbies | Gianluca Caruso</title>
+  <meta name="description" content="Hobbys und Interessen von Gianluca Caruso." />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-container">
+      <a href="index.html" class="logo">
+        <span class="logo-mark">GC</span>
+        <span class="logo-text">Gianluca Caruso</span>
+      </a>
+
+      <button class="nav-toggle" id="navToggle" aria-label="Menü öffnen" aria-expanded="false" aria-controls="mobileNav">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+    <nav class="mobile-nav" id="mobileNav">
+      <a href="index.html">Home</a>
+      <a href="about.html">About Me</a>
+      <a href="skills.html">Skills</a>
+      <a href="hobbies.html" class="active">Hobbies</a>
+      <a href="Projekte.html">Projects</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="section page-top">
+      <div class="container">
+        <div class="section-heading reveal">
+          <p class="section-label">Hobbies</p>
+          <h1>Meine Interessen</h1>
+          <p>
+            In meiner Freizeit spielt Sport eine grosse Rolle. Ich betreibe Sport engagiert
+            und mit voller Freude.
+          </p>
+        </div>
+
+        <div class="hobbies-grid">
+          <div class="content-card reveal">
+            <h3>Sport</h3>
+            <p>
+              Ich spiele aktiv Handball beim TV Stein. Vor kurzem habe ich mit dem
+              Leistungssport beim HSC Suhr Aarau aufgehört. Aus dieser Zeit nehme ich viele
+              wertvolle Erfahrungen, Disziplin und Teamgeist mit.
+            </p>
+            <p>
+              Sport hilft mir, motiviert zu bleiben, mich weiterzuentwickeln und Verantwortung
+              im Team zu übernehmen.
+            </p>
+          </div>
+
+          <div class="hobby-images reveal">
+            <div class="image-card">
+              <img src="images/sport.jpg" alt="Gianluca beim Sport" />
+            </div>
+          </div>
+        </div>
+
+        <div class="content-card reveal" style="margin-top: 24px;">
+          <h3>Weitere Interessen</h3>
+          <p>
+            Neben dem Sport bringe ich mir gerne neue Dinge selbst bei. Dazu gehören zum
+            Beispiel kleine Zaubertricks oder andere Sachen, die mich interessieren und bei
+            denen ich etwas Neues lernen kann.
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

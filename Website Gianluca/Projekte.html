@@ -1,0 +1,111 @@
+<!-- projects.html -->
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Projects | Gianluca Caruso</title>
+  <meta name="description" content="Projekte von Gianluca Caruso." />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-container">
+      <a href="index.html" class="logo">
+        <span class="logo-mark">GC</span>
+        <span class="logo-text">Gianluca Caruso</span>
+      </a>
+
+      <button class="nav-toggle" id="navToggle" aria-label="Menü öffnen" aria-expanded="false" aria-controls="mobileNav">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <nav class="desktop-nav">
+        <a href="index.html">Home</a>
+        <a href="about.html">About Me</a>
+        <a href="skills.html">Skills</a>
+        <a href="hobbies.html">Hobbies</a>
+        <a href="Projekte.html" class="active">Projects</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="section page-top section-alt">
+      <div class="container">
+        <div class="section-heading reveal">
+          <p class="section-label">Projects</p>
+          <h1>Meine Projekte</h1>
+          <p>
+            Hier findest du eine Auswahl meiner Projekte, die ich im Lernatelier der IMS
+            geplant, umgesetzt und weiterentwickelt habe.
+          </p>
+        </div>
+
+        <div class="projects-grid">
+          <article class="project-card reveal">
+            <div class="project-image">
+              <img src="images/project-1.jpg" alt="Projekt 1" />
+            </div>
+            <div class="project-body">
+              <h3>Projekt 1</h3>
+              <p>
+                Projekt 1
+              </p>
+            </div>
+          </article>
+
+          <article class="project-card reveal">
+            <div class="project-image">
+              <img src="images/project-2.jpg" alt="Projekt 2" />
+            </div>
+            <div class="project-body">
+              <h3>Projekt 2</h3>
+              <p>
+                Projekt 2
+              </p>
+            </div>
+          </article>
+
+          <article class="project-card reveal">
+            <div class="project-image">
+              <img src="images/project-3.jpg" alt="Projekt 3" />
+            </div>
+            <div class="project-body">
+              <h3>Projekt 3</h3>
+              <p>
+                Projekt 3
+              </p>
+            </div>
+          </article>
+        </div>
+
+        <div class="content-card reveal" style="margin-top: 28px; text-align: center;">
+          <h3>Mein GitHub</h3>
+          <p>
+            Auf meinem GitHub-Profil findest du weitere Projekte und Code-Beispiele von mir.
+          </p>
+
+          <a
+            href="https://github.com/Gianni0812"
+            class="btn btn-primary"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Zu meinem GitHub-Profil
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
