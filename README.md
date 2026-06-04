@@ -21,3 +21,8 @@ Ich habe die Seiten Hobbies und Projekte überarbeitet und mit passenden Inhalte
 - [ ] Bilder zu denn Seiten hinzufügen
 - [ ] Css anfangen
 - [ ] Projekte in Projekte.html verlinken
+
+- [ ] 1. Zeitungsartikel Zusammenfassen auf Französisch
+- [ ] 2. Zeitungsartikel Zusammenfassen auf Französisch
+- [ ] Französisch Quizlet lösen
+- [ ] Eine Meinung zu den Zeitungsartikeln auf Französisch schreiben
