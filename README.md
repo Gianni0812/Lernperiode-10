@@ -25,4 +25,4 @@ Ich habe die Seiten Hobbies und Projekte überarbeitet und mit passenden Inhalte
 - [ ] 1. Zeitungsartikel Zusammenfassen auf Französisch (Ziel: Ich kann den Artikel in 15 einfachen Sätzen zusammenfassen und Auswendig aufsagen)
 - [ ] 2. Zeitungsartikel Zusammenfassen auf Französisch (Ziel: Ich kann den Artikel in 15 einfachen Sätzen zusammenfassen und Auswendig aufsagen)
 - [ ] Französisch Quizlet lösen (Ziel: Ich kann die ersten 20 Wörter auswendig)
-- [ ] Eine Meinung zu den Zeitungsartikeln auf Französisch schreiben (Ziel: Ich kann für beide Artikel 10 Sätze einfaches Französisch erläutern und Auswendig aufsagen.)
+- [ ] Eine Meinung zu den Zeitungsartikeln auf Französisch schreiben (Ziel: Ich kann für beide Artikel meine Meinung in 10 Sätze einfaches Französisch erläutern und Auswendig aufsagen.)
