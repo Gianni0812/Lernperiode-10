@@ -22,7 +22,7 @@ Ich habe die Seiten Hobbies und Projekte überarbeitet und mit passenden Inhalte
 - [ ] Css anfangen
 - [ ] Projekte in Projekte.html verlinken
 
-- [ ] 1. Zeitungsartikel Zusammenfassen auf Französisch
-- [ ] 2. Zeitungsartikel Zusammenfassen auf Französisch
-- [ ] Französisch Quizlet lösen
-- [ ] Eine Meinung zu den Zeitungsartikeln auf Französisch schreiben
+- [ ] 1. Zeitungsartikel Zusammenfassen auf Französisch (Ziel: Ich kann den Artikel in 15 einfachen Sätzen zusammenfassen und Auswendig aufsagen)
+- [ ] 2. Zeitungsartikel Zusammenfassen auf Französisch (Ziel: Ich kann den Artikel in 15 einfachen Sätzen zusammenfassen und Auswendig aufsagen)
+- [ ] Französisch Quizlet lösen (Ziel: Ich kann die ersten 20 Wörter auswendig)
+- [ ] Eine Meinung zu den Zeitungsartikeln auf Französisch schreiben (Ziel: Ich kann für beide Artikel 10 Sätze einfaches Französisch erläutern und Auswendig aufsagen.)
