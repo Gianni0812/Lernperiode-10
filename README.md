@@ -32,7 +32,7 @@ Ich habe Heute Zeit bekommen, um für meine Französisch tests zu lernen. Ich ha
 
 
 ## 19.06.2026
-Durch absprache mit Meinem Lehrer, habe ich mein aktuelles Projekt abgebrochen und werde nun mit C# ein kleines Projekt erstellen. Das Ziel ist es, dass man in meinem Projekt, eine Text-Datei einlesen und in meinem Projekt aussgeben kann. In der Text-Datei sollten Voci Wörter stehen, mit dennen ich dann in der Console üen kann. Das gesammte Projekt wird Dokumentiert und später mir KI korrigiert, so dass ich genau sehen kann was meine Fehler wahren. 
+Durch Absprache mit meinem Lehrer habe ich mein aktuelles Projekt abgebrochen und werde nun mit C# ein kleines Projekt erstellen. Das Ziel meines Projekts ist es, einen einfachen Voci-Trainer für die Konsole zu programmieren. Dabei sollen Voci-Wörter direkt im Programm gespeichert werden, damit man sie in der Konsole üben kann. Das gesamte Projekt wird dokumentiert und später mithilfe von KI korrigiert, damit ich genau sehen kann, welche Fehler ich gemacht habe und was ich verbessern muss.
 
 - [ ] Mein Voci Trainer mit C# programmieren
 - [ ] Dokumentieren in einer Word-Datei
