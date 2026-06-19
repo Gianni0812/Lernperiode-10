@@ -39,4 +39,4 @@ Durch Absprache mit meinem Lehrer habe ich mein aktuelles Projekt abgebrochen un
 - [x] KI meinen Code anschauen lassen
 - [x] Fehler oder Verbesserungen von der KI verstehen und dokumentieren
 
-Ich habe alle geplanten Arbeitspakete abgeschlossen. Der Code für den Voci-Trainer wurde fertiggestellt und zusammen mit der Dokumentation hochgeladen.
+Ich habe alle geplanten Arbeitspakete abgeschlossen. Der Code für den Voci-Trainer wurde fertiggestellt und zusammen mit der Dokumentation hochgeladen. Die Dokumentation ist in dem Voci-Trainer Ordner.
